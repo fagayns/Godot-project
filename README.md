@@ -19,3 +19,16 @@ The goal of this early alpha version is to demonstrate:
 - Implemented simple interaction mechanics(main mechanic of my game is interaction with flowers and instruments for planting and watering flowers in pots)  
 - Tested the project in VR  (actually in godot settings everything is ok, but i couldn't set it in real VR, and then smth went wrong with VR headset and Godot wasn't opening)
 
+## Done
+- OpenXR integration  
+- VR player setup  
+- Basic environment  
+- Object interaction  
+- Scene structure
+
+## To be done
+- Adding music
+- Watering mechanics  
+- Planting system  
+- Sound effects  
+- Making environment more beautiful
